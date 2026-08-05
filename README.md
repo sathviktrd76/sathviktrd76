@@ -41,7 +41,7 @@ A personal finance management application built using **Python** and **Streamlit
 # 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,c,java,git,github,vscode" />
 </p>
 
 ---
