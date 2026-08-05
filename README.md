@@ -26,7 +26,7 @@ and exploring Artificial Intelligence & Machine Learning.
 ## 🚀 Current Projects
 
 - 💰 Smart Finance Expense Tracker
-- ☕ Java Practice Repository
+
 
 ---
 
