@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi 👋, I'm Sathvik Talabathula
 
-<!--
-**sathviktrd76/sathviktrd76** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech CSE (AI & ML) Student at CMR University
 
-Here are some ideas to get you started:
+I'm currently learning programming, software development, and Git/GitHub while building projects to strengthen my problem-solving skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+
+- Python
+- Java
+- Git & GitHub
+- Data Structures & Algorithms
+
+## 💻 Projects
+
+- 💰 Smart Finance Expense Tracker (Python)
+
+## 🎯 Goals
+
+- Build practical software projects
+- Contribute to open source
+- Explore AI & Machine Learning
+- Prepare for software engineering internships
+
+## 🛠️ Technologies
+
+- Python
+- Java
+- Git
+- GitHub
+- Streamlit
+
+## 📫 Connect with me
+
+- LinkedIn: *www.linkedin.com/in/
+sathvik-t-905164386
+*
+
+---
+
+*"Learning consistently, one project at a time."*
