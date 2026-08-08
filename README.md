@@ -27,14 +27,17 @@ Passionate about Software Development, Artificial Intelligence, and building pra
 
 ### 💰 Smart Finance Expense Tracker
 
-A personal finance management application built using **Python** and **Streamlit**.
+A personal finance management application built with **Python**.
 
-**Planned Features**
-- Expense Tracking
-- Budget Management
-- Savings Tracker
-- Analytics Dashboard
-- Monthly Reports
+**Features:**
+- Add & view expenses
+- Search, filter & sort expenses
+- Update & delete expenses
+- Expense calculations & summaries
+- CSV-based data storage
+- Input validation & error handling
+
+**Focus:** Python Fundamentals • File Handling • CSV
 
 ---
 
