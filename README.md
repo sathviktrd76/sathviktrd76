@@ -4,7 +4,7 @@
 
 ### B.Tech CSE (AI & ML) Student | CMR University
 
-💻 Aspiring AI/ML Engineer & Data Scientist
+💻 Aspiring AI/ML Engineer
 🚀 Learning by building practical projects
 🌱 Exploring Software Development & Open Source
 
@@ -25,7 +25,8 @@ I enjoy learning programming, building projects, solving problems, and continuou
 * 🔧 Learning **Git & GitHub** for professional software development
 * 🚀 Building practical projects to strengthen my programming fundamentals
 * 🤝 Interested in **Open Source and GSoC**
-* 🎯 Long-term goal: become an **AI/ML Engineer & Data Scientist**
+* 🎯 Long-term goal: **Become an AI/ML Engineer**
+* 📊 Building strong foundations in **Data Science and Machine Learning**
 
 ---
 
@@ -58,11 +59,11 @@ A Python-based personal finance management application that I started building t
 
 **Implemented so far:**
 
-* Add & view expenses
-* Expense calculations
-* CSV-based data storage
-* Basic input validation
-* Basic error handling
+* ➕ Add & view expenses
+* 📊 Expense calculations
+* 📁 CSV-based data storage
+* ✅ Basic input validation
+* 🛡️ Basic error handling
 
 **Status:** 🟡 Paused
 
@@ -90,12 +91,12 @@ A Python-based personal finance management application that I started building t
 
 ## 📚 Currently Learning
 
-* ☕ Java
-* 🧱 Object-Oriented Programming
-* 🧩 Data Structures & Algorithms
-* 🐍 Python
-* 🔧 Git & GitHub
-* 🌐 Open Source Contribution
+* ☕ **Java**
+* 🧱 **Object-Oriented Programming**
+* 🧩 **Data Structures & Algorithms**
+* 🐍 **Python**
+* 🔧 **Git & GitHub**
+* 🌐 **Open Source Contribution**
 
 ---
 
@@ -186,32 +187,36 @@ I want to focus on understanding the workflow and contributing meaningfully rath
              AI Projects
                   │
                   ▼
-       AI/ML ENGINEER & DATA SCIENTIST
+            AI/ML ENGINEER
 ```
 
 ---
 
-## 📈 What I'm Working Toward
+## 🧠 What I'm Working Toward
 
-My long-term goal is to combine **strong software engineering fundamentals** with **data science and machine learning**.
+My long-term goal is to become an **AI/ML Engineer** with strong foundations in software engineering, data science, and machine learning.
+
+I want to develop the ability to:
 
 ```text
-Software Engineering
-        +
-Data Science
-        +
-Machine Learning
-        +
-AI
-        ↓
-AI/ML Engineer & Data Scientist
+Build Software
+      +
+Understand Data
+      +
+Develop ML Models
+      +
+Build AI Applications
+      +
+Deploy & Maintain Systems
+      ↓
+AI/ML Engineer
 ```
 
-I want to become someone who can not only build ML models, but also understand data, write reliable software, and turn AI ideas into practical applications.
+My approach is to first build strong programming and software engineering fundamentals, then progressively move into data science, machine learning, and AI.
 
 ---
 
-## 🤝 Open to
+## 🤝 Open To
 
 * 🌱 Open Source opportunities
 * 💻 Software Engineering internships
