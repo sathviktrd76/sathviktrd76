@@ -240,6 +240,8 @@ My approach is to first build strong programming and software engineering fundam
 
 </p>
 
+<div align="center">
+
 ### 💡 Learning consistently. Building continuously. Improving every day.
 
 ⭐ Thanks for visiting my profile!
