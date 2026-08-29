@@ -4,12 +4,12 @@
 
 ### B.Tech CSE (AI & ML) Student | CMR University
 
-💻 Aspiring Software Engineer & AI/ML Engineer
-🚀 Learning by building projects
-🌱 Exploring Open Source & GSoC
+💻 Aspiring AI/ML Engineer & Data Scientist
+🚀 Learning by building practical projects
+🌱 Exploring Software Development & Open Source
 
 <p>
-I enjoy learning programming, building practical projects, and solving problems through code.
+I enjoy learning programming, building projects, solving problems, and continuously improving my technical skills.
 </p>
 
 </div>
@@ -19,77 +19,68 @@ I enjoy learning programming, building practical projects, and solving problems 
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech CSE (AI & ML) student at **CMR University**
-* 💻 Currently strengthening my **Java, Python & programming fundamentals**
-* 🧠 Learning **Data Structures & Algorithms**
+* ☕ Currently strengthening **Java and Object-Oriented Programming**
+* 🐍 Learning **Python**
+* 🧩 Practicing **Data Structures & Algorithms**
 * 🔧 Learning **Git & GitHub** for professional software development
-* 🚀 Building projects to improve my problem-solving and development skills
-* 🤝 Preparing to contribute to **Open Source**
-* 🎯 Long-term goal: become an **AI/ML Engineer + Data Scientist**
+* 🚀 Building practical projects to strengthen my programming fundamentals
+* 🤝 Interested in **Open Source and GSoC**
+* 🎯 Long-term goal: become an **AI/ML Engineer & Data Scientist**
 
 ---
 
-## 🚀 Current Focus
+## 🔨 Currently Building
 
-I'm currently focusing on building a strong software engineering foundation.
+### 🥫 PantryPal
 
-```text
-Java → OOP → DSA → Git/GitHub → Projects → Open Source
-                              ↓
-                         Software Internship
-                              ↓
-                    Python → SQL → Data Science
-                              ↓
-                         AI / ML
-```
+A Java-based pantry management application built to strengthen my Core Java and Object-Oriented Programming skills.
 
----
-
-## 📌 Featured Projects
-
-### 💰 Smart Finance Expense Tracker
-
-A Python-based personal finance management application designed to practice programming fundamentals and file handling.
-
-**Features:**
-
-* ➕ Add & view expenses
-* 🔎 Search, filter & sort expenses
-* ✏️ Update expenses
-* 🗑️ Delete expenses
-* 📊 Expense calculations & summaries
-* 📁 CSV-based data storage
-* 🛡️ Input validation & error handling
-
-**Tech:** `Python` `CSV` `File Handling`
-
----
-
-### 🥫 PantryPal — Java Mini Project
-
-A Java-based pantry management application focused on strengthening core Java and Object-Oriented Programming concepts.
-
-**Planned concepts:**
+**Focus:**
 
 * Java Fundamentals
-* OOP
-* `ArrayList`
+* Object-Oriented Programming
+* ArrayList
 * Exception Handling
 * File Handling
 * Git & GitHub
+
+**Status:** 🟢 In Progress
 
 **Tech:** `Java`
 
 ---
 
+## 📦 Previous Project
+
+### 💰 Smart Finance Expense Tracker
+
+A Python-based personal finance management application that I started building to practice Python fundamentals and file handling.
+
+**Implemented so far:**
+
+* Add & view expenses
+* Expense calculations
+* CSV-based data storage
+* Basic input validation
+* Basic error handling
+
+**Status:** 🟡 Paused
+
+**Tech:** `Python` `CSV` `File Handling`
+
+> This project is currently paused while I focus on strengthening my Java, DSA, and Git/GitHub fundamentals.
+
+---
+
 ## 🛠️ Tech Stack
 
-### Programming Languages
+### 💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,c" />
 </p>
 
-### Tools & Technologies
+### 🔧 Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -99,11 +90,12 @@ A Java-based pantry management application focused on strengthening core Java an
 
 ## 📚 Currently Learning
 
-* ☕ **Java & Object-Oriented Programming**
-* 🧩 **Data Structures & Algorithms**
-* 🐍 **Python**
-* 🔧 **Git & GitHub**
-* 🌐 **Open Source Contribution**
+* ☕ Java
+* 🧱 Object-Oriented Programming
+* 🧩 Data Structures & Algorithms
+* 🐍 Python
+* 🔧 Git & GitHub
+* 🌐 Open Source Contribution
 
 ---
 
@@ -111,98 +103,121 @@ A Java-based pantry management application focused on strengthening core Java an
 
 I'm currently learning how professional open-source projects work.
 
-My goal is to gradually progress from:
+My goal is to build my skills gradually:
 
 ```text
-Git & GitHub
-     ↓
-Git Branching & Pull Requests
-     ↓
-Small Practice Contributions
-     ↓
-Real Open Source Contributions
-     ↓
-Good First Issues
-     ↓
-GSoC Preparation
+Learn Git & GitHub
+       ↓
+Practice with Personal Projects
+       ↓
+Learn Branching & Pull Requests
+       ↓
+Practice Open Source Workflow
+       ↓
+Make Small Contributions
+       ↓
+Contribute to Real Projects
+       ↓
+Prepare for GSoC
 ```
 
-I'm focusing on understanding the workflow properly rather than rushing into contributions.
+I want to focus on understanding the workflow and contributing meaningfully rather than rushing into contributions.
 
 ---
 
-## 🎯 2026 Goals
+## 🎯 Goals for 2026
 
-* [ ] Build strong Java fundamentals
-* [ ] Learn OOP properly
-* [ ] Strengthen DSA & problem-solving
+* [ ] Strengthen Java fundamentals
+* [ ] Master Object-Oriented Programming
+* [ ] Improve DSA & problem-solving
 * [ ] Learn Git & GitHub professionally
-* [ ] Build multiple practical projects
-* [ ] Make my first Open Source contribution
+* [ ] Complete and document Java projects
 * [ ] Build a strong GitHub portfolio
+* [ ] Practice open-source contribution workflow
+* [ ] Make my first real Open Source contribution
 * [ ] Prepare for Software Engineering internships
 
 ---
 
-## 📈 My Long-Term Roadmap
+## 🗺️ Long-Term Roadmap
 
 ```text
-2026
-Software Development Foundation
-        │
-        ├── Java
-        ├── OOP
-        ├── DSA
-        ├── Git & GitHub
-        ├── Projects
-        └── Open Source
-                │
-                ▼
-2027
-Data & Software Engineering
-        │
-        ├── Python
-        ├── SQL
-        ├── Excel
-        ├── NumPy & Pandas
-        ├── Data Visualization
-        └── Statistics
-                │
-                ▼
-2027–28
-Data Science & Machine Learning
-        │
-        ├── Mathematics
-        ├── Machine Learning
-        ├── Scikit-learn
-        ├── Deep Learning
-        └── AI Projects
-                │
-                ▼
-        AI/ML Engineer + Data Scientist
+                 2026
+        SOFTWARE FOUNDATION
+                  │
+        ┌─────────┼─────────┐
+        │         │         │
+      Java       OOP       DSA
+        │         │         │
+        └─────────┼─────────┘
+                  │
+             Git & GitHub
+                  │
+               Projects
+                  │
+             Open Source
+                  │
+                  ▼
+                 2027
+          DATA FOUNDATION
+                  │
+        ┌─────────┼─────────┐
+        │         │         │
+     Python      SQL    Statistics
+        │         │         │
+     NumPy     Pandas   Visualization
+        │         │         │
+        └─────────┼─────────┘
+                  │
+             Data Projects
+                  │
+                  ▼
+               2027–28
+        DATA SCIENCE & ML
+                  │
+        ┌─────────┼─────────┐
+        │         │         │
+      Math        ML    Scikit-learn
+        │         │         │
+        └─────────┼─────────┘
+                  │
+           Deep Learning
+                  │
+             AI Projects
+                  │
+                  ▼
+       AI/ML ENGINEER & DATA SCIENTIST
 ```
 
 ---
 
-## 📊 GitHub Stats
+## 📈 What I'm Working Toward
 
-<p align="center">
+My long-term goal is to combine **strong software engineering fundamentals** with **data science and machine learning**.
 
-<img src="https://github-readme-stats.vercel.app/api?username=SathvikTRD&show_icons=true&theme=tokyonight" height="170"/>
+```text
+Software Engineering
+        +
+Data Science
+        +
+Machine Learning
+        +
+AI
+        ↓
+AI/ML Engineer & Data Scientist
+```
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikTRD&layout=compact&theme=tokyonight" height="170"/>
-
-</p>
+I want to become someone who can not only build ML models, but also understand data, write reliable software, and turn AI ideas into practical applications.
 
 ---
 
-## 🔥 Contribution Streak
+## 🤝 Open to
 
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SathvikTRD&theme=tokyonight" />
-
-</p>
+* 🌱 Open Source opportunities
+* 💻 Software Engineering internships
+* 🧠 AI/ML learning opportunities
+* 🤝 Collaborating on beginner-friendly projects
+* 🚀 Building projects and learning together
 
 ---
 
@@ -224,7 +239,7 @@ Data Science & Machine Learning
 
 <div align="center">
 
-### 💡 *Learning consistently, building continuously.*
+### 💡 Learning consistently. Building continuously. Improving every day.
 
 ⭐ Thanks for visiting my profile!
 
