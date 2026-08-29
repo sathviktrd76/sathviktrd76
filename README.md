@@ -4,12 +4,12 @@
 
 ### B.Tech CSE (AI & ML) Student | CMR University
 
-💻 Aspiring AI/ML Engineer
-🚀 Learning by building practical projects
-🌱 Exploring Software Development & Open Source
+💻 **Aspiring AI/ML Engineer**
+☕ Java • 🐍 Python • 🧩 DSA • 🔧 Git & GitHub
+🌱 Exploring Open Source & Software Development
 
 <p>
-I enjoy learning programming, building projects, solving problems, and continuously improving my technical skills.
+I enjoy learning programming, building practical projects, solving problems, and continuously improving my technical skills.
 </p>
 
 </div>
@@ -19,14 +19,14 @@ I enjoy learning programming, building projects, solving problems, and continuou
 ## 👨‍💻 About Me
 
 * 🎓 B.Tech CSE (AI & ML) student at **CMR University**
-* ☕ Currently strengthening **Java and Object-Oriented Programming**
+* ☕ Currently strengthening **Java & Object-Oriented Programming**
 * 🐍 Learning **Python**
 * 🧩 Practicing **Data Structures & Algorithms**
 * 🔧 Learning **Git & GitHub** for professional software development
-* 🚀 Building practical projects to strengthen my programming fundamentals
-* 🤝 Interested in **Open Source and GSoC**
+* 🚀 Building practical projects to strengthen my programming and problem-solving skills
+* 🤝 Interested in **Open Source & GSoC**
 * 🎯 Long-term goal: **Become an AI/ML Engineer**
-* 📊 Building strong foundations in **Data Science and Machine Learning**
+* 📊 Building strong foundations in **Data Science & Machine Learning**
 
 ---
 
@@ -69,8 +69,6 @@ A Python-based personal finance management application that I started building t
 
 **Tech:** `Python` `CSV` `File Handling`
 
-> This project is currently paused while I focus on strengthening my Java, DSA, and Git/GitHub fundamentals.
-
 ---
 
 ## 🛠️ Tech Stack
@@ -91,34 +89,33 @@ A Python-based personal finance management application that I started building t
 
 ## 📚 Currently Learning
 
-* ☕ **Java**
-* 🧱 **Object-Oriented Programming**
+* ☕ **Java & Object-Oriented Programming**
 * 🧩 **Data Structures & Algorithms**
 * 🐍 **Python**
 * 🔧 **Git & GitHub**
-* 🌐 **Open Source Contribution**
+* 🌱 **Open Source Contribution**
 
 ---
 
 ## 🌱 Open Source Journey
 
-I'm currently learning how professional open-source projects work.
+I'm currently learning how professional open-source projects work and preparing to make my first meaningful contribution.
 
-My goal is to build my skills gradually:
+My approach:
 
 ```text
 Learn Git & GitHub
-       ↓
-Practice with Personal Projects
-       ↓
+        ↓
+Build Personal Projects
+        ↓
 Learn Branching & Pull Requests
-       ↓
+        ↓
 Practice Open Source Workflow
-       ↓
+        ↓
 Make Small Contributions
-       ↓
+        ↓
 Contribute to Real Projects
-       ↓
+        ↓
 Prepare for GSoC
 ```
 
@@ -132,63 +129,11 @@ I want to focus on understanding the workflow and contributing meaningfully rath
 * [ ] Master Object-Oriented Programming
 * [ ] Improve DSA & problem-solving
 * [ ] Learn Git & GitHub professionally
-* [ ] Complete and document Java projects
+* [ ] Build and document practical projects
 * [ ] Build a strong GitHub portfolio
 * [ ] Practice open-source contribution workflow
 * [ ] Make my first real Open Source contribution
 * [ ] Prepare for Software Engineering internships
-
----
-
-## 🗺️ Long-Term Roadmap
-
-```text
-                 2026
-        SOFTWARE FOUNDATION
-                  │
-        ┌─────────┼─────────┐
-        │         │         │
-      Java       OOP       DSA
-        │         │         │
-        └─────────┼─────────┘
-                  │
-             Git & GitHub
-                  │
-               Projects
-                  │
-             Open Source
-                  │
-                  ▼
-                 2027
-          DATA FOUNDATION
-                  │
-        ┌─────────┼─────────┐
-        │         │         │
-     Python      SQL    Statistics
-        │         │         │
-     NumPy     Pandas   Visualization
-        │         │         │
-        └─────────┼─────────┘
-                  │
-             Data Projects
-                  │
-                  ▼
-               2027–28
-        DATA SCIENCE & ML
-                  │
-        ┌─────────┼─────────┐
-        │         │         │
-      Math        ML    Scikit-learn
-        │         │         │
-        └─────────┼─────────┘
-                  │
-           Deep Learning
-                  │
-             AI Projects
-                  │
-                  ▼
-            AI/ML ENGINEER
-```
 
 ---
 
@@ -212,17 +157,7 @@ Deploy & Maintain Systems
 AI/ML Engineer
 ```
 
-My approach is to first build strong programming and software engineering fundamentals, then progressively move into data science, machine learning, and AI.
-
----
-
-## 🤝 Open To
-
-* 🌱 Open Source opportunities
-* 💻 Software Engineering internships
-* 🧠 AI/ML learning opportunities
-* 🤝 Collaborating on beginner-friendly projects
-* 🚀 Building projects and learning together
+I'm currently focusing on strong programming and software engineering fundamentals before progressing deeper into data science, machine learning, and AI.
 
 ---
 
@@ -239,6 +174,8 @@ My approach is to first build strong programming and software engineering fundam
 </a>
 
 </p>
+
+---
 
 <div align="center">
 
